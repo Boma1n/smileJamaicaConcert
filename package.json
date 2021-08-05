@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:Boma1n/smileJamaicaConcert.git",
   "author": "Bomain <romainblondeldesign@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "locomotive-scroll": "^4.1.1"
+  }
 }

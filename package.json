@@ -1,0 +1,8 @@
+{
+  "name": "smileJamaicaConcert",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Boma1n/smileJamaicaConcert.git",
+  "author": "Bomain <romainblondeldesign@gmail.com>",
+  "license": "MIT"
+}
